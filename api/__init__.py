@@ -4,7 +4,7 @@ Welcome to the documentation for the Microblog API!
 This project is written in Python, with the
 [Flask](https://flask.palletsprojects.com/) web framework. This documentation
 is generated automatically from the
-[project's source code](https://github.com/miguelgrinberg/microblog-api) using
+[project's source code](https://github.com/akannkereuwem/microblog-api) using
 the [APIFairy](https://github.com/miguelgrinberg/apifairy) Flask extension.
 
 ## Introduction

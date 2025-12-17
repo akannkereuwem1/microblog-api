@@ -1,7 +1,7 @@
 {
   "name": "Microblog API",
   "description": "A modern Flask API.",
-  "repository": "https://github.com/miguelgrinberg/microblog-api",
+  "repository": "https://github.com/akannkereuwem/microblog-api",
   "env": {
     "DISABLE_AUTH": {
       "required": false,

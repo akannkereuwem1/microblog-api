@@ -1,7 +1,7 @@
 # This module implements safe replacements for the deprecated datetime.utcnow()
 # function of the Python standard library.
 # For details see this blog post:
-# https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated
+# https://blog.akannkereuwem.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated
 
 from datetime import datetime, timezone
 
